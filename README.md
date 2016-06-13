@@ -24,3 +24,7 @@ Chính vì vậy sau thời gian trăn trở, `VietStack` team quyết định k
 
 ## Contributor
 `Danh sách các contributor`
+- Tô Thành Công
+- Lê Quang Hiếu
+- Lương Hữu Tuấn
+- Nguyễn Hoài Nam
