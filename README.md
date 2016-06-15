@@ -12,7 +12,7 @@ Chính vì vậy sau thời gian trăn trở, `VietStack` team quyết định k
 - Đóng góp và public tới cộng đồng.
 
 ## Nhóm dự án:
-- Rewview: `VietStack`
+- Reviewer: `VietStack`
 - Contributor: `Thành viên mong muốn`
 
 ## Nguyên tắc khi tham gia:
